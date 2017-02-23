@@ -1,9 +1,9 @@
-
-class Level extends GameObject {
+class Decoration extends GameObject {
   /*
   */
   constructor(game) {
     super(game);
   }
+  load() {}
 
 }

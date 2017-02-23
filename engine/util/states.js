@@ -1,16 +1,18 @@
 const GAMESTATES = {
-  INITIALIZED: 0,
-  RUNNING: 1,
-  PAUSED: 2,
+  UNDEFINED: 0,
+  INITIALIZED: 1,
+  RUNNING: 2,
+  PAUSED: 3,
   STOPPED: 4,
 };
 
 const ENTITYSTATES = {
   UNDEFINED: 0,
   EXISTS: 1,
-  ALIVE: 2,
-  DEAD: 3,
+  ACTIVE: 2,
+  STASIS: 3,
   DESTROYED: 4,
+  REMOVED: 5,
 };
 
 const WORLDSTATES = {

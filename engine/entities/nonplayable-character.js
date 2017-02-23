@@ -1,5 +1,4 @@
-
-class Level extends GameObject {
+class NonPlayableCharacter extends Character {
   /*
   */
   constructor(game) {
