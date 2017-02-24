@@ -5,5 +5,5 @@ to view it in it's original form.
 [interactionchart]
 
 
-[interactionchart]: https://github.com/KyleBibler/RPG-Engine/tree/master/engine/docs/design-docs/game-engine-overview.png "Game Engine Overview"
+[interactionchart]: https://github.com/KyleBibler/RPG-Engine/engine/docs/design-docs/game-engine-overview.png "Game Engine Overview"
 [interactionchartlink]: https://docs.google.com/drawings/d/1nF_8u2ffQjcbME62C5NHtThTO4bDPv8JSzfE-Hft4_A/edit?usp=sharing
