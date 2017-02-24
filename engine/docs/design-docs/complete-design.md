@@ -1,8 +1,8 @@
 # Design Overview for the Game Engine
 See the figure below for high level overview of engine class interactions or follow
-[interactionchartlink] this link
+[this link][interactionchartlink] 
 to view it in it's original form.
-[interactionchart]
+![alt text][interactionchart]
 
 
 [interactionchart]: https://github.com/KyleBibler/RPG-Engine/engine/docs/design-docs/game-engine-overview.png "Game Engine Overview"
