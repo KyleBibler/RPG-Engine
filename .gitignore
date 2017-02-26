@@ -1,5 +1,6 @@
 # build
 dist/
 
-# node modules
+# node files
 node_modules/
+npm-debug.log
